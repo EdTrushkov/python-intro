@@ -5,7 +5,7 @@
 8 / 2 + 5 - -3 / 2
 """
 #  BEGIN
-
+print(8 / 2 + 5 - (-3) / 2)
 
 #  END
 
@@ -18,6 +18,7 @@
 
 #  BEGIN
 
+print("\"Khal Drogo's favorite word is \"athjahakar\"\"")
 
 #  END
 
@@ -32,7 +33,7 @@ Winter came for the House of Frey.
 """
 
 #  BEGIN
-
+print('Winter ' + 'came ' + 'for ' + 'the ' + 'House ' + 'of ' + 'Frey.')
 
 #  END
 
@@ -44,7 +45,10 @@ Winter came for the House of Frey.
 """
 
 #  BEGIN
-
+a="First text"
+print(a)
+a="Second text"
+print(a)
 
 #  END
 
@@ -63,6 +67,8 @@ Maruf
 """
 
 #  BEGIN
-
+print("What's your name?")
+a=input()
+print("Hello",a)
 
 #  END
